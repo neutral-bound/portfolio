@@ -1,0 +1,3 @@
+export const SET_HEAD_URL = 'SET_HEAD_URL';
+export const CHECK_TOP_SCROLL = 'CHECK_TOP_SCROLL';
+export const SEND_CONTACT_EMAIL = 'SEND_CONTACT_EMAIL';
